@@ -1,0 +1,164 @@
+{
+    "1": [
+        {
+            "object_uid": 1,
+            "technic_type_id": 3,
+            "title": "подъемный кран",
+            "confidence": 0.98046875,
+            "worked_start_timestamp": 0,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 0,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 1862,
+                "x2": 2164,
+                "y1": 450,
+                "y2": 812
+            }
+        }
+    ],
+    "2": [
+        {
+            "object_uid": 2,
+            "technic_type_id": 3,
+            "title": "подъемный кран",
+            "confidence": 0.97021484375,
+            "worked_start_timestamp": 0,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 0,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 2452,
+                "x2": 2560,
+                "y1": 412,
+                "y2": 851
+            }
+        }
+    ],
+    "3": [
+        {
+            "object_uid": 3,
+            "technic_type_id": 2,
+            "title": "экскаватор",
+            "confidence": 0.966796875,
+            "worked_start_timestamp": 0,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 0,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 261,
+                "x2": 430,
+                "y1": 797,
+                "y2": 916
+            }
+        }
+    ],
+    "4": [
+        {
+            "object_uid": 4,
+            "technic_type_id": 2,
+            "title": "экскаватор",
+            "confidence": 0.9619140625,
+            "worked_start_timestamp": 0,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 0,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 2252,
+                "x2": 2340,
+                "y1": 571,
+                "y2": 647
+            }
+        }
+    ],
+    "5": [
+        {
+            "object_uid": 5,
+            "technic_type_id": 5,
+            "title": "грузовик",
+            "confidence": 0.953125,
+            "worked_start_timestamp": 0,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 0,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 450,
+                "x2": 521,
+                "y1": 611,
+                "y2": 665
+            }
+        }
+    ],
+    "6": [
+        {
+            "object_uid": 6,
+            "technic_type_id": 5,
+            "title": "грузовик",
+            "confidence": 0.95263671875,
+            "worked_start_timestamp": 0,
+            "worked_end_timestamp": 62,
+            "frame_idx_start": 0,
+            "frame_idx_end": 313,
+            "object_coords": {
+                "x1": 542,
+                "x2": 594,
+                "y1": 575,
+                "y2": 615
+            }
+        }
+    ],
+    "7": [
+        {
+            "object_uid": 7,
+            "technic_type_id": 4,
+            "title": "трактор",
+            "confidence": 0.93310546875,
+            "worked_start_timestamp": 0,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 0,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 941,
+                "x2": 999,
+                "y1": 625,
+                "y2": 667
+            }
+        }
+    ],
+    "10": [
+        {
+            "object_uid": 10,
+            "technic_type_id": 4,
+            "title": "трактор",
+            "confidence": 0.93798828125,
+            "worked_start_timestamp": 71,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 357,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 1634,
+                "x2": 1698,
+                "y1": 584,
+                "y2": 624
+            }
+        }
+    ],
+    "13": [
+        {
+            "object_uid": 13,
+            "technic_type_id": 5,
+            "title": "грузовик",
+            "confidence": 0.85302734375,
+            "worked_start_timestamp": 114,
+            "worked_end_timestamp": 143,
+            "frame_idx_start": 571,
+            "frame_idx_end": 719,
+            "object_coords": {
+                "x1": 464,
+                "x2": 528,
+                "y1": 633,
+                "y2": 675
+            }
+        }
+    ]
+}
